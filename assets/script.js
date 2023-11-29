@@ -5,7 +5,6 @@ const arrow_previous = document.querySelector(".arrow_left");
 const bannerDots = document.querySelectorAll(".dot");
 const bannerParagraph = document.querySelector("p");
 
-// Initialisation de l'index
 let currentIndex = 0;
 
 const slides = [
